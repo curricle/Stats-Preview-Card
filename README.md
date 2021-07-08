@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-flexbox-stats-preview-card-Q6OZuzlVe)
 - Live Site URL: [GitHub Pages](https://curricle.github.io/Stats-Preview-Card/)
 
 ## My process
